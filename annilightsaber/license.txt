@@ -1,0 +1,11 @@
+Model Information:
+* title:	Anakin Skywalker's Lightsaber
+* source:	https://sketchfab.com/3d-models/anakin-skywalkers-lightsaber-b032515c9ff3471fbb824bb4ec81cde3
+* author:	Paul (https://sketchfab.com/bbfizzle)
+
+Model License:
+* license type:	CC-BY-NC-ND-4.0 (http://creativecommons.org/licenses/by-nc-nd/4.0/)
+* requirements:	Author must be credited. No commercial use. Modified versions can not be distributed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Anakin Skywalker's Lightsaber" (https://sketchfab.com/3d-models/anakin-skywalkers-lightsaber-b032515c9ff3471fbb824bb4ec81cde3) by Paul (https://sketchfab.com/bbfizzle) licensed under CC-BY-NC-ND-4.0 (http://creativecommons.org/licenses/by-nc-nd/4.0/)
