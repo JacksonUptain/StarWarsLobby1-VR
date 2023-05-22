@@ -1,0 +1,11 @@
+Model Information:
+* title:	Star Wars: AT-AT Battle
+* source:	https://sketchfab.com/3d-models/star-wars-at-at-battle-29f9cba568ce4b1b8bd4a56379d200c8
+* author:	Therealyton (https://sketchfab.com/yton)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Star Wars: AT-AT Battle" (https://sketchfab.com/3d-models/star-wars-at-at-battle-29f9cba568ce4b1b8bd4a56379d200c8) by Therealyton (https://sketchfab.com/yton) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
